@@ -1,11 +1,13 @@
 # Interactive Sand Sculpture VFX via OSC
 
-<video src="https://github.com/user-attachments/assets/db6fdc1a-8653-4483-866f-edeccfcc9d25" autoplay loop muted playsinline width="40%"></video>
+![GIF1](https://github.com/user-attachments/assets/b0fb0641-0d67-403c-86d4-54b06b290d28)
 
-<video src="https://github.com/user-attachments/assets/56382042-80e0-49fc-9e0d-4a9c24cf2f1e" autoplay loop muted playsinline width="40%"></video>
+![GIF2](https://github.com/user-attachments/assets/7fe7da03-4d73-4db8-9361-b566c518fbad)
 
 スマートフォンのセンサーを利用し、リアルタイムに3D彫刻を崩壊・修復させるインタラクティブアート。
 OSC通信を用いたフィジカルなデバイス連携と、VFX Graphによるパーティクル制御を組み合わせています。
+
+[▶ Vimeoで見る](https://vimeo.com/1175425761?fl=tl&fe=ec)
 
 ## 概要
 
